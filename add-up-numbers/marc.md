@@ -1,4 +1,4 @@
-[Marc](https://edabit.com/challenge/4gzDuDkompAqujpR)
+# [Marc](https://edabit.com/challenge/4gzDuDkompAqujpR)
 
 
 ```js
@@ -15,7 +15,8 @@ const addNumbers = num => {
 ```
 
 # Strategy
-    The strategy of this code is to calculate the sum of numbers from 1 to the given number (num). It does this by using a while loop to iterate through each number from 1 to num and adds each number to the sum variable.
+
+  The strategy of this code is to calculate the sum of numbers from 1 to the given number (num). It does this by using a while loop to iterate through each number from 1 to num and adds each number to the sum variable.
 
 ## Implementation
  1.The addNumbers function takes a single parameter num.
